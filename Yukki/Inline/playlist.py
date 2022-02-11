@@ -6,7 +6,7 @@ def check_markup(user_name, user_id, videoid):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✨ Updates", url="https://t.me/BAZIGARXD"
+                text="✨ Updates", url="https://t.me/OfficialNoinoi"
             ),
             InlineKeyboardButton(text="📣 Support", url="https://t.me/CFC_BOT_SUPPORT"),
         ],
@@ -18,7 +18,7 @@ def playlist_markup(user_name, user_id, videoid):
     buttons = [
         [
             InlineKeyboardButton(
-                text="✨ Updates", url="https://t.me/BAZIGARXD"
+                text="✨ Updates", url="https://t.me/OfficialNoinoi"
             ),
             InlineKeyboardButton(text="📣 Support", url="https://t.me/CFC_BOT_SUPPORT"),
         ],
